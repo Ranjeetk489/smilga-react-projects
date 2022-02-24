@@ -1,7 +1,8 @@
-import React from 'react';
-import Review from './Review';
+import React, { useState } from 'react';
+import data from './data';
+import List from './List';
 function App() {
-  return <h2>reviews project setup</h2>;
+  return <h2>reminder project setup</h2>;
 }
 
 export default App;
